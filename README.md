@@ -1,2 +1,1 @@
-# bociljepang
-bociljepang
+# [bociljepang](https://bociljepang.pages.dev)
